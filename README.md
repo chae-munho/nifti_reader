@@ -54,7 +54,7 @@ See the [release folder](https://github.com/rii-mango/NIFTI-Reader-JS/tree/maste
 npm run build
 ```
 This will output nifti-reader.js and nifti-reader-min.js to build/.
-
+![niftiiiiiiii](https://github.com/user-attachments/assets/902ba44a-e0ad-4448-a6f8-bdaa9b22e2d2)
 
 Acknowledgments
 -----
