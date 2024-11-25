@@ -48,6 +48,11 @@ bower install nifti-reader-js
 npm test
 ```
 
+###install mime-types
+```
+npm install mime-types
+```
+
 ###Building
 See the [release folder](https://github.com/rii-mango/NIFTI-Reader-JS/tree/master/release) for the latest builds or build it yourself using:
 ```
